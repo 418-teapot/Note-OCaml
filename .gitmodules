@@ -1,0 +1,3 @@
+[submodule "NoTex"]
+	path = NoTex
+	url = git@github.com:418-teapot/NoTex.git
