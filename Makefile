@@ -1,4 +1,4 @@
-export MYNAME = ocaml
+export MYNAME = OCaml
 
 all:
 	$(MAKE) -C NoTex
